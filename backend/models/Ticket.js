@@ -1,0 +1,1 @@
+// Ticket with QR code and event reference.

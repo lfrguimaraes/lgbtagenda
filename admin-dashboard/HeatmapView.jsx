@@ -1,0 +1,1 @@
+// React component for event heatmap rendering.

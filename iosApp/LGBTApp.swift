@@ -1,0 +1,1 @@
+// SwiftUI App entry point for LGBT Agenda.

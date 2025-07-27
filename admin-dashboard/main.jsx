@@ -1,0 +1,1 @@
+// React admin dashboard for event management and QR scan view.

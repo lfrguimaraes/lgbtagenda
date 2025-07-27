@@ -1,0 +1,1 @@
+// Routes with auth, ticket upload, map filters, QR access.

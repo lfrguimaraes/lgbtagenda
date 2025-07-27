@@ -1,0 +1,1 @@
+// Event model with geolocation.
